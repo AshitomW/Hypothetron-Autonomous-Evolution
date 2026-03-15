@@ -11,6 +11,6 @@ Then contribute whatever you think is an improvement, fix, or enhancement from y
 One stylistic requirement: annotations are required everywhere.
  - Yes, even the obvious things.
 - Yes, even the painfully obvious things.
-- The reason is simple: the my eyes like it better that way.
+- The reason is simple:  my eyes like it better that way.
 - Is this unnecessary? Probably.
 - Is it slightly ridiculous to annotate basic things? Absolutely.

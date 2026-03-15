@@ -1,5 +1,10 @@
-Hypothetron
+# Hypothetron
 
-Status: Architecture Formulated / Development-Paused
+Contributions are welcome if the project interests you. The system can almost certainly be improved. I am a slightly confused human and occasionally write some random bullshit, so fixes, improvements, and better ideas are always appreciated.
 
-Repo launched to avoid memory black holes. Active development will commence once the core plan is fully charted current experiments are still orbiting other unfinished projects , and the schedule is let's just say, light years behi
+One stylistic requirement: annotations are required everywhere.
+ - Yes, even the obvious things.
+- Yes, even the painfully obvious things.
+- The reason is simple: the my eyes like it better that way.
+- Is this unnecessary? Probably.
+- Is it slightly ridiculous to annotate basic things? Absolutely.

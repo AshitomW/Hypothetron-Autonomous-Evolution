@@ -16,3 +16,4 @@ One stylistic requirement: annotations are required everywhere.
 - Is it slightly ridiculous to annotate basic things? Absolutely.
 
 This is a prototype. No financial or resource support exists to maintain it as a production system—even if no one uses it. Maybe in the future, if we survive this chaos, we’ll consider it… purely for fun.
+WIP
